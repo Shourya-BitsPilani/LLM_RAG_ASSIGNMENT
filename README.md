@@ -23,6 +23,7 @@
    ```
    GEMINI_API_KEY=AIzaSyCdD4B8J5HA_nogQrxgZ9YMujEf9RFdW9M
    ```
+4. (Optional): If your environment is not set up correctly after installing the packages from requirements.txt, you can extract the ".venv" (It contains a pre-configured Python virtual environment with all the necessary packages already installed.)
 
 ## Running the App
 
